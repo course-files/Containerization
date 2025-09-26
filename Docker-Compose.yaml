@@ -2,8 +2,8 @@ services:
 
   apache-php:
     image: customized-apache-httpd-plus-php:1.0
-    hostname: apache-2.4-php-8.2-mcs8104-lab1
-    container_name: apache-2.4-php-8.2-mcs8104-lab1
+    hostname: apache-2.4-php-8.2
+    container_name: apache-2.4-php-8.2
     restart: always
     ports:
       - 8002:80
