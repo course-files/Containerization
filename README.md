@@ -1,9 +1,9 @@
-# [DAT2201] Lab1: Containerization
+# [BBT4x06] Lab1: Containerization
 
 | **Key**                                                               | Value                                                                                                                                                                              |
 |---------------|---------------------------------------------------------|
 | **Group Name**                                                               | ? |
-| **Semester Duration**                                                 | 18<sup>th</sup> November - 1<sup>st</sup> March 2025                                                                                                                       |
+| **Semester Duration**                                                 | 9<sup>th</sup> September - 2<sup>nd</sup> December 2025                                                                                                                       |
 
 ## Lab Manual
 
