@@ -1,6 +1,5 @@
 {
     "recommendations": [
-        "redhat.vscode-yaml",
-        "cweijan.vscode-database-client2"
+        "redhat.vscode-yaml"
     ]
 }
